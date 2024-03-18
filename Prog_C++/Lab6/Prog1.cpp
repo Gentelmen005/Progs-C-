@@ -18,6 +18,7 @@ typedef struct Anketa_Child
 } AnkC;
 
 
+
 void Print(AnkC* children)
 {
 	cout << "ï¿½\tï¿½ï¿½ï¿½\t¿½ï¿½\tï¿½ï¿½ïfdfdfdfdf ï¿½ï¿½" << endl;
